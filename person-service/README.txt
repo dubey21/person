@@ -1,6 +1,3 @@
-# person
-person-service
-
 #### DB #######
 Use you Graph DB in PersonDBConfig.java in URL section
 public static final String URL = System.getenv("NEO4J_URL") != null ? System.getenv("NEO4J_URL")
